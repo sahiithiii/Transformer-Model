@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+tokenizers
+datasets
+sentencepiece
+tensorboard
+tqdm
+pandas
+numpy
+altair
+wandb
